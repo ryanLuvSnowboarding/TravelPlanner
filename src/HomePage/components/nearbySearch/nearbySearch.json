@@ -1,0 +1,776 @@
+
+{
+   
+    "html_attributions" : [],
+    "next_page_token" : "ATJ83zgrzNgQdk2YAkAubeimqGGAcJb5aA_FqDGyt1P43UhNq5OLfm_q38eoGJtaVAmAA-17BvZy7dSuCdPnW26mxMwzTfkGHO6Y8aniDQ2WvQH-8iA4MbjGyjWqZ94YS3xuZhe0L1nsqoXHTjfzKZwwEuKcwXClawnBQoT_iLv3_1OtKv2Ih0ttTPIuRjfOtcEsKYOwtVfbFKPfX7dTd0qlS8W2l6s8nG0-XviPw0tEFiaDdcD9Ke5NfAln4UH3XInx8yQKgk38w34rj0KxQ1TCoP_XdXMKInmjtOAL76bawCnk_h5AiCXy404V3kIe3DwXRV6chPBTO2zCwPVrMcKo3B9WhzrvjWaCJmGAk5PlMDo2SFuGUQ2Dp2eFweSaAfhGD-2P9Ht8Ndp-DLL4qIRVWjEeEztdRY2Mmlj8RSlMXH5KuISWb_8yrsGSBI7z",
+    "results" : 
+    [
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 40.7156143,
+                "lng" : -74.00896709999999
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 40.7170075802915,
+                   "lng" : -74.0076779697085
+                },
+                "southwest" : 
+                {
+                   "lat" : 40.7143096197085,
+                   "lng" : -74.0103759302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+          "icon_background_color" : "#909CE1",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+          "name" : "The Frederick Hotel",
+          "opening_hours" : 
+          {
+             "open_now" : true
+          },
+          "photos" : 
+          [
+             {
+                "height" : 932,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/113320175426967913588\"\u003eThe Frederick Hotel\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATJ83ziGeKVGBfKcIOYY3iJK-ptb9hIa7J6kExl7exBNvcil-fwGvKBPn61NBLPgicz6xAfcOawkcLdRpBNxSifdBdVRJy-HBUPsplEA32T-_vNlqH5cpsNDHLw-T4n51BHuc1XFyp0BK_8w7aAHasDpTk5OkEHL70MPImgiGLHWkuQiyEB7",
+                "width" : 1400
+             }
+          ],
+          "place_id" : "ChIJYSjtGB9awokRvtwfGw4UEpc",
+          "plus_code" : 
+          {
+             "compound_code" : "PX8R+6C New York, NY, USA",
+             "global_code" : "87G7PX8R+6C"
+          },
+          "rating" : 4.2,
+          "reference" : "ChIJYSjtGB9awokRvtwfGw4UEpc",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "lodging",
+             "restaurant",
+             "food",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 746,
+          "vicinity" : "95 West Broadway, New York"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 40.71981419999999,
+                "lng" : -74.00007339999999
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 40.7212065802915,
+                   "lng" : -73.99885641970849
+                },
+                "southwest" : 
+                {
+                   "lat" : 40.7185086197085,
+                   "lng" : -74.00155438029149
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+          "icon_background_color" : "#909CE1",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+          "name" : "NOMO SOHO",
+          "opening_hours" : 
+          {
+             "open_now" : true
+          },
+          "photos" : 
+          [
+             {
+                "height" : 4480,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/111884033851099197700\"\u003eNOMO SOHO\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATJ83zhH4kT7WAxX_NZUxxp7JbD-vbaJCMp6ktnSrtqOrAekRqoamhuPRXg-64rngl1x2lM2nEXScmvZJXYWNkWyAec10YoFjVX4kPfRp25dZVg6W5uw9vua80gnhb8YB_g_DQ1qWGRgL4SnbekQC0R7pNm3Ebz8N4IKhOrL3h2z5Qm_JzDd",
+                "width" : 6720
+             }
+          ],
+          "place_id" : "ChIJM8mGj4lZwokRSbZBvNOVNKM",
+          "plus_code" : 
+          {
+             "compound_code" : "PX9X+WX New York, NY, USA",
+             "global_code" : "87G7PX9X+WX"
+          },
+          "price_level" : 3,
+          "rating" : 4,
+          "reference" : "ChIJM8mGj4lZwokRSbZBvNOVNKM",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "lodging",
+             "restaurant",
+             "food",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 1600,
+          "vicinity" : "9 Crosby Street, New York"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 40.7163226,
+                "lng" : -73.98864949999999
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 40.71774308029151,
+                   "lng" : -73.9872212197085
+                },
+                "southwest" : 
+                {
+                   "lat" : 40.71504511970851,
+                   "lng" : -73.98991918029151
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Doughnut Plant",
+          "opening_hours" : 
+          {
+             "open_now" : true
+          },
+          "photos" : 
+          [
+             {
+                "height" : 3024,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/112490962655081222435\"\u003e김주필\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATJ83zhW3tT7xIUfNlT-IhWJ-OTnWVdNjFuagX0VG4KPgEXwy6R1XoXO-xMp4SL7-90pYKR6JtIDn8oIIfYcjXihLDFJpexo0_bJUTgN1gMwm_A6-wGBYxHwTKeT7kvFvBEsFyfEgenfo2Dic8lZ97BUZr5DIxDQYBPQ9aZ69X1-SG8yhsL1",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJ2SZLBypawokR5g0jFxaMY10",
+          "plus_code" : 
+          {
+             "compound_code" : "P286+GG New York, NY, USA",
+             "global_code" : "87G8P286+GG"
+          },
+          "price_level" : 2,
+          "rating" : 4.5,
+          "reference" : "ChIJ2SZLBypawokR5g0jFxaMY10",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "cafe",
+             "bakery",
+             "restaurant",
+             "food",
+             "store",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 1956,
+          "vicinity" : "379 Grand Street, New York"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 40.70383419999999,
+                "lng" : -73.99479359999999
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 40.7051564802915,
+                   "lng" : -73.99337341970849
+                },
+                "southwest" : 
+                {
+                   "lat" : 40.7024585197085,
+                   "lng" : -73.99607138029151
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "The River Café",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "photos" : 
+          [
+             {
+                "height" : 2000,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110287755892943639196\"\u003eThe River Café\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATJ83zgIxoxsUKcEnai680XN3hFBE_PLN-LChfVBpCbZwKZgNZoMROYkx3ZmWe_EqSvPb1eDzUc6aF4H5qbVJmDASYJtD2vv0qSyKUGjRZE6--LPBN1GvDmTlCcH-fRZWwLK5EcfYin6VrqZaVihwrl5c2IpZf-02dYxUKuq80lOWvOvOTJR",
+                "width" : 1333
+             }
+          ],
+          "place_id" : "ChIJ2QZOdTpawokRU_eN_EPJaX8",
+          "plus_code" : 
+          {
+             "compound_code" : "P234+G3 New York, NY, USA",
+             "global_code" : "87G8P234+G3"
+          },
+          "price_level" : 4,
+          "rating" : 4.4,
+          "reference" : "ChIJ2QZOdTpawokRU_eN_EPJaX8",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "restaurant",
+             "bar",
+             "food",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 1990,
+          "vicinity" : "1 Water Street, Brooklyn"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 40.73,
+                "lng" : -74.00072779999999
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 40.7312968802915,
+                   "lng" : -73.99931421970849
+                },
+                "southwest" : 
+                {
+                   "lat" : 40.7285989197085,
+                   "lng" : -74.0020121802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Artichoke Basille's Pizza",
+          "opening_hours" : 
+          {
+             "open_now" : true
+          },
+          "photos" : 
+          [
+             {
+                "height" : 2268,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/114592238794697604522\"\u003eRon Khoury\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATJ83ziEY69TjTKgWqJFBseVDjLI14hnWAOe2oAnUl-D-8qfP2keI305uv4lNNakQKNGjn-21qz2q7xnTgpz5eMwUe8u78p0Y1TtZNILx4fl3VpmXgo_4Hl51hoEVTSllUv0KhPbGWO1q-bhe1ycBABrO1Z587TRGE9VvKn6IIYO8dBwZ9BZ",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJ10EpKJJZwokRUjIWaunOQbI",
+          "plus_code" : 
+          {
+             "compound_code" : "PXHX+XP New York, NY, USA",
+             "global_code" : "87G7PXHX+XP"
+          },
+          "price_level" : 2,
+          "rating" : 4.4,
+          "reference" : "ChIJ10EpKJJZwokRUjIWaunOQbI",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "restaurant",
+             "food",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 1666,
+          "vicinity" : "111 MacDougal Street, New York"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 40.70412899999999,
+                "lng" : -74.010336
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 40.70541433029149,
+                   "lng" : -74.00894591970849
+                },
+                "southwest" : 
+                {
+                   "lat" : 40.70271636970849,
+                   "lng" : -74.0116438802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+          "name" : "Beckett's Bar & Grill",
+          "opening_hours" : 
+          {
+             "open_now" : true
+          },
+          "photos" : 
+          [
+             {
+                "height" : 450,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/116422841424895618318\"\u003eBeckett&#39;s Bar &amp; Grill\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATJ83zgD_02vaU3yqLlevxdrwQtlW-tWM7XGkP7lEhbuARavLqDGu5id-D39iRXIovGaFfGgKRhLHgZl9jNPVv_smPdP3FosRPpzHRYlJc6FgMyqsUNq3ND5jxAMNFuZ3E-VZpWn1wAXuNvqm5U6m5VjlmYLUJPRaSw3ejMESrhhXm5ekRJx",
+                "width" : 800
+             }
+          ],
+          "place_id" : "ChIJ3blcJRRawokRex4mbeb9Ix4",
+          "plus_code" : 
+          {
+             "compound_code" : "PX3Q+MV New York, NY, USA",
+             "global_code" : "87G7PX3Q+MV"
+          },
+          "price_level" : 2,
+          "rating" : 4,
+          "reference" : "ChIJ3blcJRRawokRex4mbeb9Ix4",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "bar",
+             "restaurant",
+             "food",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 409,
+          "vicinity" : "81 Pearl Street, New York"
+       },
+       {
+          "business_status" : "CLOSED_TEMPORARILY",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 40.7221457,
+                "lng" : -74.0046268
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 40.7233761802915,
+                   "lng" : -74.00305536970849
+                },
+                "southwest" : 
+                {
+                   "lat" : 40.7206782197085,
+                   "lng" : -74.0057533302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+          "name" : "Gilligan's",
+          "permanently_closed" : true,
+          "photos" : 
+          [
+             {
+                "height" : 1281,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/114259629548611646358\"\u003eGilligan&#39;s\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATJ83zjKzHUXXjnj0QmrMRgnqYXjWQ-ZFk6uH_dM9tlrBjJuQZma8tiuT4S2YBXmtuAD0yt7HEB_78FbgahyDx3ueOti_brcCd7bBV1BelnnTfAxdB4xSAgpY70ycLIORUQBjyFk8UTdVSydJOS456KcOeNvWOZfuUZWMUwqefY8t47GcrmF",
+                "width" : 1920
+             }
+          ],
+          "place_id" : "ChIJH8Pll4pZwokRUyQh1WPYego",
+          "plus_code" : 
+          {
+             "compound_code" : "PXCW+V4 New York, NY, USA",
+             "global_code" : "87G7PXCW+V4"
+          },
+          "price_level" : 3,
+          "rating" : 4.1,
+          "reference" : "ChIJH8Pll4pZwokRUyQh1WPYego",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "bar",
+             "restaurant",
+             "food",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 326,
+          "vicinity" : "310 West Broadway, New York"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 40.72653280000001,
+                "lng" : -74.0021536
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 40.7279476802915,
+                   "lng" : -74.00085531970849
+                },
+                "southwest" : 
+                {
+                   "lat" : 40.7252497197085,
+                   "lng" : -74.0035532802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "The Dutch",
+          "opening_hours" : 
+          {
+             "open_now" : true
+          },
+          "photos" : 
+          [
+             {
+                "height" : 2333,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/114365317263368146080\"\u003eThe Dutch\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATJ83ziMS4xNn86tASL1ENImkah74tjQB6HVopi7vXJXm1qB8WJH8EtIe2Y_ELfLXlz3xN6vQ75QX0jSbVeXvvXxFnZyDfEsFoxcKop-LOcIgSI-ja0tslu8OsLS9MhiwNqKI-lk3T_msw18qzeCc2FUHhJnhSUxsPq3zLlb16jLh7bbpJkO",
+                "width" : 3500
+             }
+          ],
+          "place_id" : "ChIJ3RB9uI1ZwokRxCJXW-HpYZI",
+          "plus_code" : 
+          {
+             "compound_code" : "PXGX+J4 New York, NY, USA",
+             "global_code" : "87G7PXGX+J4"
+          },
+          "price_level" : 3,
+          "rating" : 4.3,
+          "reference" : "ChIJ3RB9uI1ZwokRxCJXW-HpYZI",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "bar",
+             "restaurant",
+             "food",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 1942,
+          "vicinity" : "131 Sullivan Street, New York"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 40.72266799999999,
+                "lng" : -73.99822979999999
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 40.72406153029149,
+                   "lng" : -73.99687076970849
+                },
+                "southwest" : 
+                {
+                   "lat" : 40.72136356970849,
+                   "lng" : -73.99956873029151
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Balthazar",
+          "opening_hours" : 
+          {
+             "open_now" : true
+          },
+          "photos" : 
+          [
+             {
+                "height" : 1365,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/117724873759090509205\"\u003eBalthazar\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATJ83ziaQk-dRJeI4mVzmptxs_Q1crD0gd_SncL5zIs63nkKjuIZr4PdWB3U5owkV0XNwShgIU80ZoTXqgiJ3gqYyYgYHlcPNXH-SWpuIK9Pq319VggI1tRcInDxPApofwj1PA2W_-7EhphYxnDx3Ln_1fbUygQHUudIreo8hrQwlCeNO_82",
+                "width" : 2048
+             }
+          ],
+          "place_id" : "ChIJt7fMLIlZwokRCRtM9bNDg78",
+          "plus_code" : 
+          {
+             "compound_code" : "P2F2+3P New York, NY, USA",
+             "global_code" : "87G8P2F2+3P"
+          },
+          "price_level" : 3,
+          "rating" : 4.4,
+          "reference" : "ChIJt7fMLIlZwokRCRtM9bNDg78",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "bakery",
+             "restaurant",
+             "food",
+             "store",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 6426,
+          "vicinity" : "80 Spring Street, New York"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 40.72157809999999,
+                "lng" : -73.9956856
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 40.7229276802915,
+                   "lng" : -73.99423971970849
+                },
+                "southwest" : 
+                {
+                   "lat" : 40.7202297197085,
+                   "lng" : -73.99693768029151
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Lombardi's Pizza",
+          "opening_hours" : 
+          {
+             "open_now" : true
+          },
+          "photos" : 
+          [
+             {
+                "height" : 1728,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/100766269913572807417\"\u003eLombardi&#39;s Pizza\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATJ83zjgv2h4F8dr11jQQpeGXQeBW0HU061r8wjymziXnDfxUUHendanNBNdMvfrFZ55gcMCUJWz6h7Iy6RW-bL1fqTTRpgtTnxCBgwtqOL0UNCeDFKWj55bPNjPOe1qOnQtHpoUZMB7qgueCa6qYoqV_9wV5OGASBulst3vc0lKKD8vaoVl",
+                "width" : 2592
+             }
+          ],
+          "place_id" : "ChIJp-cWE4pZwokRmUI8_BIF8dg",
+          "plus_code" : 
+          {
+             "compound_code" : "P2C3+JP New York, NY, USA",
+             "global_code" : "87G8P2C3+JP"
+          },
+          "price_level" : 2,
+          "rating" : 4.1,
+          "reference" : "ChIJp-cWE4pZwokRmUI8_BIF8dg",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "meal_delivery",
+             "meal_takeaway",
+             "restaurant",
+             "food",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 7874,
+          "vicinity" : "32 Spring Street, New York"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 40.7196368,
+                "lng" : -74.009776
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 40.7208873802915,
+                   "lng" : -74.00865186970849
+                },
+                "southwest" : 
+                {
+                   "lat" : 40.7181894197085,
+                   "lng" : -74.01134983029151
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Tribeca Grill",
+          "opening_hours" : 
+          {
+             "open_now" : true
+          },
+          "photos" : 
+          [
+             {
+                "height" : 944,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/105227856190605937924\"\u003eTribeca Grill\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATJ83zjjBpLjbszT4FkzBRHYdsEF7XXPTZ5kR6yAFL64z1ulAhbSw6Oak4LO8aB2hSG9X17xwDPPGFbbiwV2plyUw4qJlgKkenPN-injPVyTp8Vezud8g8BsDOcKpCJr6hreg5FwUIIU5OHhE1Dj-e9FO-1yAA7rUiNWnjPiJlzK7OBJLQM8",
+                "width" : 1419
+             }
+          ],
+          "place_id" : "ChIJRzzoh_VZwokRdXF0AL5vPvA",
+          "plus_code" : 
+          {
+             "compound_code" : "PX9R+V3 New York, NY, USA",
+             "global_code" : "87G7PX9R+V3"
+          },
+          "price_level" : 3,
+          "rating" : 4.2,
+          "reference" : "ChIJRzzoh_VZwokRdXF0AL5vPvA",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "restaurant",
+             "food",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 1059,
+          "vicinity" : "375 Greenwich Street, New York"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 40.7235595,
+                "lng" : -74.00295559999999
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 40.7249528302915,
+                   "lng" : -74.00149591970849
+                },
+                "southwest" : 
+                {
+                   "lat" : 40.7222548697085,
+                   "lng" : -74.0041938802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Cipriani Downtown NYC",
+          "opening_hours" : 
+          {
+             "open_now" : true
+          },
+          "photos" : 
+          [
+             {
+                "height" : 1365,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/111498297342671941692\"\u003eCipriani Downtown NYC\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATJ83zgg6qdK9A5XtDKlw1ymMcbV6fKRwgJLHj3fOiucJOdKhuweI1a1n5cPi_Dqtgn80tzSNg29yaK_zvK9xLScAmIdXJNLbO03-55G5bb-RaIKATJn01hDBVEp9tNIO4hE4WivtPOkZ2Rkqm4HHt3qCNx3lamUvEd8YUK7_epcHcDgMcJ3",
+                "width" : 2048
+             }
+          ],
+          "place_id" : "ChIJ71HLcIxZwokRXymDgawloWI",
+          "plus_code" : 
+          {
+             "compound_code" : "PXFW+CR New York, NY, USA",
+             "global_code" : "87G7PXFW+CR"
+          },
+          "price_level" : 4,
+          "rating" : 4.1,
+          "reference" : "ChIJ71HLcIxZwokRXymDgawloWI",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "meal_takeaway",
+             "restaurant",
+             "food",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 1042,
+          "vicinity" : "376 West Broadway, New York"
+       }
+    ],
+    "status" : "OK"
+ }
